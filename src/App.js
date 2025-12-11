@@ -1,5 +1,5 @@
-import logo from './logo.svg';
-import './App.css';
+import logo from "./logo.svg";
+import "./App.css";
 
 function App() {
   return (
@@ -13,6 +13,10 @@ function App() {
         <div>
           <label>Password</label>
           <input></input>
+        </div>
+        <div>
+          <label>Date of birth</label>
+          <input type="date"> </input>
         </div>
         <div>
           <button>Login</button>
