@@ -1,4 +1,3 @@
-import logo from "./logo.svg";
 import "./App.css";
 
 function App() {
@@ -6,6 +5,14 @@ function App() {
     <div className="App">
       <form>
         <h1>Login</h1>
+        <div>
+          <label>First Name</label>
+          <input></input>
+        </div>
+        <div>
+          <label>Last Name</label>
+          <input></input>
+        </div>
         <div>
           <label>Email</label>
           <input></input>
