@@ -23,7 +23,7 @@ function App() {
         </div>
         <div>
           <label>Date of birth</label>
-          <input type="date"> </input>
+          <input type="date"></input>
         </div>
         <div>
           <button>Login</button>
